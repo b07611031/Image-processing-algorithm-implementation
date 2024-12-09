@@ -7,7 +7,7 @@ This library collects various image processing algorithms and provides simple ex
 ![Image classification](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/framework.jpg)
 
 ## High-Dynamic-Range-Imaging
-![HDR](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/hdrtonemapping_1.jpg)
+![HDR](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/HDR.jpg)
 
 #### contour detection
 
