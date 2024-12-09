@@ -5,7 +5,6 @@ This material was fully designed from scratch in August 2023 for the AIoT class.
 Image classification can be broadly divided into two parts: (1) feature extraction and description, and (2) classification.
 
 ![Image Framework](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/color.jpg)
-![Image Framework](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/color.jpg?raw=true)
 
 ---
 
@@ -13,12 +12,12 @@ Image classification can be broadly divided into two parts: (1) feature extracti
 
 In this step, we extract features such as color, texture, and shape from images.
 
-![Image Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/Image-Classification/figures/feature-description.jpg?raw=true)
+![Image Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/feature-description.jpg)
 
 ### Color
 Color features can be analyzed using color histograms or by extracting specific ranges of colors.
 
-![Image Color](https://github.com/b07611031/Image-processing-algorithm-implementation/Image-Classification/figures/color.jpg?raw=true)
+![Image Color](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/color.jpg)
 
 ```python
 import cv2
@@ -42,8 +41,8 @@ plt.show()
 ### Texture
 Texture refers to the visual and tactile quality of a surface, characterized by patterns, variations, and details. The Gray-Level Co-occurrence Matrix (GLCM) is often used for analyzing texture.
 
-![Image Texture](https://github.com/b07611031/Image-processing-algorithm-implementation/Image-Classification/figures/texture.jpg?raw=true)  
-![GLCM Example](https://github.com/b07611031/Image-processing-algorithm-implementation/Image-Classification/figures/glcm.jpg?raw=true)
+![Image Texture](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/texture.jpg)  
+![GLCM Example](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/glcm.jpg)
 
 ```python
 from skimage.feature import graycomatrix, graycoprops
@@ -59,7 +58,7 @@ for patch in patches:
 ### Shape
 Shape features, such as contours and Fourier descriptors, capture the distinctive properties of an object's boundary.
 
-![Image Shape](https://github.com/b07611031/Image-processing-algorithm-implementation/Image-Classification/figures/shape.jpg?raw=true)
+![Image Shape](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/shape.jpg)
 
 ---
 
