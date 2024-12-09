@@ -93,10 +93,10 @@ Tone mapping converts HDR images into LDR images suitable for standard displays.
 Adjust the gamma value using the `--gamma` parameter to control brightness and contrast.
 
 **Example Results:**
-- \(n=500\), \(\gamma=1.5\):
+- \(n=500, gamma=1.5\):
   ![Gamma = 1.5](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/hdrtonemapping.jpg)
 
-- \(n=500\), \(\gamma=2.2\):
+- \(n=500, gamma=2.2\):
   ![Gamma = 2.2](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/hdrtonemapping_1.jpg)
 
 ---
@@ -105,10 +105,10 @@ Adjust the gamma value using the `--gamma` parameter to control brightness and c
 
 You can compare the generated HDR images with results from OpenCV's HDR package to evaluate quality. Below is an example comparison:
 
-- **Original LDR Image (Exposure Time = 0.4 sec):**
+- **Original LDR Image \(Exposure Time = 0.4 sec\):**
   ![Raw (0.4 sec)](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/raw_04.jpg)
 
-- **Our HDR Result (\(n=500, \gamma=2.2\)):**
+- **Our HDR Result \(n=500, gamma=2.2\):**
   ![Our HDR result](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/hdrtonemapping_1.jpg)
 
 - **OpenCV HDR Result:**
