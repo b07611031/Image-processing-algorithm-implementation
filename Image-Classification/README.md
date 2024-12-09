@@ -4,7 +4,8 @@ This material was fully designed from scratch in August 2023 for the AIoT class.
 
 Image classification can be broadly divided into two parts: (1) feature extraction and description, and (2) classification.
 
-![Image Framework](https://github.com/b07611031/Image-processing-algorithm-implementation/Image-Classification/figures/framework.jpg?raw=true)
+![Image Framework](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/color.jpg)
+![Image Framework](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/color.jpg?raw=true)
 
 ---
 
