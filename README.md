@@ -10,18 +10,7 @@ This repo collects various image processing algorithms and provides simple examp
 ![HDR](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/HDR.jpg)
 
 ## Feature Detection and Feature Description
+![Feature Detection and Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Feature-Detection-Description/figures/cat_patch.png)
 
-
-#### contour detection
-
-figure
-
-#### feature description
-
-fig
-
-#### machine learning algorithm
-
-alg
-
-## Document scanner
+## Document Scanner
+![Document Scanner](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.jpg)
