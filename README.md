@@ -17,7 +17,7 @@ In contrast, advanced implementations like **Image Classification** and **Docume
 
 ---
 
-## Image Classification
+## [Image Classification](https://github.com/b07611031/Image-processing-algorithm-implementation/tree/main/Image-Classification)
 
 This project demonstrates the use of machine learning and image processing techniques to classify images. It serves as an educational tutorial and includes detailed step-by-step instructions.
 
@@ -25,7 +25,7 @@ This project demonstrates the use of machine learning and image processing techn
 
 ---
 
-## High Dynamic Range Imaging
+## [High Dynamic Range Imaging](https://github.com/b07611031/Image-processing-algorithm-implementation/tree/main/High-Dynamic-Range-Imaging)
 
 Explore techniques to create HDR images, including object detection, feature matching, perspective transformation, and image binarization. This project emphasizes effective HDR generation without relying on OpenCV dependencies.
 
@@ -33,7 +33,7 @@ Explore techniques to create HDR images, including object detection, feature mat
 
 ---
 
-## Feature Detection and Feature Description
+## [Feature Detection and Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/tree/main/Feature-Detection-Description)
 
 This project implements feature detection using algorithms like Harris Corner and Multiscale Harris Corner, along with feature description methods. It includes examples to demonstrate the results.
 
@@ -41,7 +41,7 @@ This project implements feature detection using algorithms like Harris Corner an
 
 ---
 
-## Document Scanner
+## [Document Scanner](https://github.com/b07611031/Image-processing-algorithm-implementation/tree/main/Document-Scanner)
 
 A practical tool packaged as an executable file (EXE) that scans and rectifies document images. The GUI allows users to adjust brightness, contrast, and rotation for better results.
 
