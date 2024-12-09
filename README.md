@@ -27,7 +27,7 @@ This project demonstrates the use of machine learning and image processing techn
 
 ## [High Dynamic Range Imaging](https://github.com/b07611031/Image-processing-algorithm-implementation/tree/main/High-Dynamic-Range-Imaging)
 
-Explore techniques to create HDR images, including object detection, feature matching, perspective transformation, and image binarization. This project emphasizes effective HDR generation without relying on OpenCV dependencies.
+Explore techniques to create HDR images. This project emphasizes effective HDR generation without relying on OpenCV dependencies.
 
 <img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/HDR.jpg" alt="HDR Imaging" width="600">
 
