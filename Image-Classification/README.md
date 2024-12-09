@@ -12,7 +12,7 @@ Image classification can be broadly divided into two parts: (1) feature extracti
 
 In this step, we extract features such as color, texture, and shape from images.
 
-![Image Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/feature-description.jpg)
+![Image Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/feature-description.jpg)
 
 ### Color
 Color features can be analyzed using color histograms or by extracting specific ranges of colors.
