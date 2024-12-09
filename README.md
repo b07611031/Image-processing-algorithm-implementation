@@ -1,11 +1,12 @@
 # Image Processing Algorithm Implementation
 
-This repository collects various image processing algorithms, providing practical examples and implementations. The projects are designed to showcase both foundational and advanced techniques in image processing. 
+This repository collects various image processing algorithms, providing practical examples and implementations. The projects are designed to showcase both foundational and advanced techniques in image processing.
 
-Most implementations, such as **High Dynamic Range Imaging**, **Feature Detection and Feature Description**, and **Applications of Digital Image Processing**, are dependency-light and run without OpenCV, emphasizing simplicity and efficiency. 
+Most implementations, such as **High Dynamic Range Imaging**, **Feature Detection and Feature Description**, and **Applications of Digital Image Processing**, are dependency-light and run without OpenCV, emphasizing simplicity and efficiency.
 
 In contrast, advanced implementations like **Image Classification** and **Document Scanner** leverage OpenCV to demonstrate more complex applications of image processing. This repository serves as a portfolio of my work in image processing.
 
+---
 
 ### Projects Overview
 - **[High Dynamic Range Imaging](#high-dynamic-range-imaging)**: An implementation of HDR imaging techniques.
@@ -20,7 +21,7 @@ In contrast, advanced implementations like **Image Classification** and **Docume
 
 This project demonstrates the use of machine learning and image processing techniques to classify images. It serves as an educational tutorial and includes detailed step-by-step instructions.
 
-![Image Classification](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/framework.jpg)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Image-Classification/figures/framework.jpg" alt="Image Classification" width="600">
 
 ---
 
@@ -28,7 +29,7 @@ This project demonstrates the use of machine learning and image processing techn
 
 Explore techniques to create HDR images, including object detection, feature matching, perspective transformation, and image binarization. This project emphasizes effective HDR generation without relying on OpenCV dependencies.
 
-![HDR Imaging](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/HDR.jpg)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/High-Dynamic-Range-Imaging/figures/HDR.jpg" alt="HDR Imaging" width="600">
 
 ---
 
@@ -36,7 +37,7 @@ Explore techniques to create HDR images, including object detection, feature mat
 
 This project implements feature detection using algorithms like Harris Corner and Multiscale Harris Corner, along with feature description methods. It includes examples to demonstrate the results.
 
-![Feature Detection and Description](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Feature-Detection-Description/figures/cat_patch.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Feature-Detection-Description/figures/cat_patch.png" alt="Feature Detection and Description" width="600">
 
 ---
 
@@ -44,7 +45,7 @@ This project implements feature detection using algorithms like Harris Corner an
 
 A practical tool packaged as an executable file (EXE) that scans and rectifies document images. The GUI allows users to adjust brightness, contrast, and rotation for better results.
 
-![Document Scanner Results](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.png" alt="Document Scanner Results" width="600">
 
 ---
 
@@ -52,63 +53,63 @@ A practical tool packaged as an executable file (EXE) that scans and rectifies d
 
 This section includes various digital image processing techniques implemented in Python.
 
-### [Transformation](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/C1HW06-2022/HW6_林雲_R11631012.pdf)
+### [Transformation](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/R11631012_HW6/HW6_林雲_R11631012.pdf)
 
 #### Geometric Transformation
-![Geometric Transformation](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Geometric_Transformation.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Geometric_Transformation.png" alt="Geometric Transformation" width="500">
 
 #### Image Fusion Using Wavelet Transform
-![Image Fusion](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Image_Fusion.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Image_Fusion.png" alt="Image Fusion" width="500">
 
 #### Hough Transform
-![Hough Transform](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Hough_Transform.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Hough_Transform.png" alt="Hough Transform" width="500">
 
 ---
 
-### [Color Model](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/C1HW05-2022/HW5_林雲_R11631012.pdf)
+### [Color Model](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/R11631012_HW5/HW5_林雲_R11631012.pdf)
 
 #### Pseudo-color Image
-![Pseudo-color Image](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Pseudo-color_Image.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Pseudo-color_Image.png" alt="Pseudo-color Image" width="500">
 
 #### Color Segmentation
 - **GUI Example**:  
-  ![Color Segmentation GUI](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Segmentation_GUI.png)
+  <img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Segmentation_GUI.png" alt="Color Segmentation GUI" width="400">
 - **K-means Segmentation**:  
-  ![Color Segmentation K](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Segmentation_K.png)
+  <img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Segmentation_K.png" alt="Color Segmentation K" width="400">
 - **Model Visualization**:  
-  ![Color Segmentation Model](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Segmentation_model.png)
+  <img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Segmentation_model.png" alt="Color Segmentation Model" width="400">
 
 #### Color Model Conversion
-![Color Model Conversion](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Model_Conversion.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Color_Model_Conversion.png" alt="Color Model Conversion" width="500">
 
 ---
 
-### [Fourier Transform](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/C1HW04-2022/HW4_林雲_R11631012.pdf)
+### [Fourier Transform](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/R11631012_HW4/HW4_林雲_R11631012.pdf)
 
 #### Fourier Transform GUI
-![Fourier Transform GUI](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Fourier_Transform_GUI.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Fourier_Transform_GUI.png" alt="Fourier Transform GUI" width="500">
 
 #### Highpass/Lowpass Filtering
-![Filtering](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Filtering.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Filtering.png" alt="Filtering" width="500">
 
 #### Homomorphic Filtering
-![Homomorphic Filtering](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Homomorphic.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Homomorphic.png" alt="Homomorphic Filtering" width="500">
 
 #### Motion Blur
-![Motion Blur](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Motion_Blur.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Motion_Blur.png" alt="Motion Blur" width="500">
 
 ---
 
-### [Filter](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/C1HW03-2022/HW3_林雲_R11631012.pdf)
+### [Filter](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/R11631012_HW3/HW3_林雲_R11631012.pdf)
 
 #### Box Filter & Gaussian Blur
-![Blur](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Blur.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Blur.png" alt="Blur" width="500">
 
 #### Sobel & Marr-Hildreth Edge Detector
-![Edge Detection](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Edge_Detection.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Edge_Detection.png" alt="Edge Detection" width="500">
 
 #### Local Enhancement & Histogram Equalization
-![Histogram Remapping](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Historgram_Remapping.png)
+<img src="https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Applications-of-Digital-Image-Processing/figures/Historgram_Remapping.png" alt="Histogram Remapping" width="500">
 
 ---
 
