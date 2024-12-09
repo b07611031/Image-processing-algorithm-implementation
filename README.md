@@ -13,4 +13,4 @@ This repo collects various image processing algorithms and provides simple examp
 ![Feature Detection and Feature Description](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Feature-Detection-Description/figures/cat_patch.png)
 
 ## Document Scanner
-![Document Scanner](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.jpg)
+![Document Scanner](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.png)

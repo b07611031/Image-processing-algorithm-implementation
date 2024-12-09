@@ -51,7 +51,7 @@ The program differentiates documents in the image using:
 ### Image Processing Workflow
 Figure 1 illustrates the key steps of the image processing workflow, showing the progression from the raw image to the final processed document.
 
-![Image Processing Results](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.jpg)  
+![Image Processing Results](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/results.png)  
 **Figure 1: Image processing results.**
 
 ### User-Friendly GUI
@@ -59,7 +59,7 @@ The program is packaged as a Windows Executable File (EXE) with a graphical user
 - **Brightness, contrast, and rotation adjustments** for enhanced results.
 - A simple and intuitive interface for scanning and saving processed documents.
 
-![GUI of the Scanner](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/gui.jpg)  
+![GUI of the Scanner](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/gui.png)  
 **Figure 2: The GUI of the developed scanner.**
 
 For a detailed demonstration, refer to the included video file: [demo.mkv](https://github.com/b07611031/Image-processing-algorithm-implementation/blob/main/Document-Scanner/figures/demo.mkv).
